@@ -44,9 +44,6 @@
   <a href="DeepSeek_V3.pdf"><b>Paper Link</b>👁️</a>
 </p>
 
-
-Aqui está a tradução formatada em Markdown dentro de um bloco de código:
-
 ## 1. Introdução
 
 Apresentamos o **DeepSeek-V3**, um poderoso modelo de linguagem do tipo *Mixture-of-Experts* (MoE) com **671 bilhões de parâmetros totais**, dos quais **37 bilhões são ativados para cada token**.
